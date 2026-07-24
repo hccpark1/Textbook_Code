@@ -1,3 +1,0 @@
-Air Cycle performance Analysis.py : 2.3 엔지니어링 설계 및 계산 예제
-Chiller Capacity Calculation for 150kW Fast Charging Battery Heat Removal.py: 3.8.2. 설계 예제: 칠러(Chiller) 용량 산정
- 
